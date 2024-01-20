@@ -1,0 +1,18 @@
+form{
+ display: flex;
+ height: 100vh;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+}
+input{
+    height: 60px;
+    width: 40%;
+}
+h1{
+margin-top: 830px;
+}
+.one{
+    box-shadow: 8px 8px 8px;
+}
